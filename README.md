@@ -6,15 +6,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 BCA Student
-- 🌱 Learning Data Science & Machine Learning
-- 🐍 Python 
-- 📊 SQL | Excel | Power BI
-- 🎯 Goal: Become a Data Scientist
-
----
 
 ## 🌐 Connect With Me
 
@@ -43,16 +34,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,vscode,java"/>
 </p>
-
----
-
-## 🚀 Projects
-
-- 📝 Online Examination System
-- 🍽️ Zomato Data Analysis
-- 🏏 IPL Data Analysis
-- 👤 Username Creator
-  
 
 ---
 
