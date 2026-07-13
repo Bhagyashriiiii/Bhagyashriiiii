@@ -4,7 +4,7 @@
 
 </p>
 
----
+
 
 
 ## 🌐 Connect With Me
@@ -27,7 +27,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠 Skills
 
@@ -35,6 +35,6 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,vscode,java"/>
 </p>
 
----
+
 
 ⭐ Thanks for visiting my profile!
