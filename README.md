@@ -4,6 +4,9 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Data+Science+%7C+SQL;Always+Learning+New+Things+🚀" />
+  <a href="https://www.instagram.com/priencess__guddi?igsh=MW51bnBjM3E1Y3JiZg==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
 </p>
 
 ---
