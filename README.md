@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA Student
+- 🎓 BCA Student
 - 🌱 Learning Data Science & Machine Learning
 - 🐍 Python Lover
 - 📊 SQL | Excel | Power BI
@@ -20,8 +20,8 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: ghodakeguddi@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/bhagyashri-ghodake-470040367/
 
 ---
 
