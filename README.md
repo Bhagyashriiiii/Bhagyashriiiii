@@ -21,7 +21,8 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: ghodakeguddi@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/bhagyashri-ghodake-470040367/
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/276f1c98-2c8d-4de2-a9a0-c9f28af506ef" />
+ LinkedIn: https://www.linkedin.com/in/bhagyashri-ghodake-470040367/
 
 ---
 
