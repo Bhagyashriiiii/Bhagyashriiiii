@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagyashri Ghodake</h1>
 
-<h3 align="center">💻 Aspiring Data Scientist | BCA Student | Python Enthusiast</h3>
-
 <p align="center">
 
 </p>
