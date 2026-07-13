@@ -3,8 +3,7 @@
 <h3 align="center">💻 Aspiring Data Scientist | BCA Student | Python Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Data+Science+%7C+SQL;Always+Learning+New+Things+🚀" />
- 
+
 </p>
 
 ---
@@ -52,8 +51,9 @@
 ## 🚀 Projects
 
 - 📝 Online Examination System
-- 📊 IPL Data Analysis
-- 
+- 🍽️ Zomato Data Analysis
+- 🏏 IPL Data Analysis
+- 👤 Username Creator
   
 
 ---
